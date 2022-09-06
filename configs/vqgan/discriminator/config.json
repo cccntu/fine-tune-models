@@ -1,0 +1,10 @@
+{
+  "base_features": 32,
+  "image_size": [
+    256,
+    256
+  ],
+  "max_hidden_feature_size": 512,
+  "mbstd_group_size": 4,
+  "mbstd_num_features": 1
+}
